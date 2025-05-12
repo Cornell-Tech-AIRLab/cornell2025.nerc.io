@@ -1,5 +1,6 @@
+domain: cornell2025.nerc.io
 url: https://cornell2025.nerc.io
-baseurl: /agency-jekyll-theme/
+baseurl: ""
 
 # Site settings
 title: Awesome Title
