@@ -1,6 +1,6 @@
 domain: cornell2025.nerc.io
 url: https://cornell2025.nerc.io
-baseurl: ""
+baseurl: "/cornell2025.nerc.io"
 
 # Site settings
 title: Awesome Title
