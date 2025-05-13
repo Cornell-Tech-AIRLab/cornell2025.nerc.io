@@ -43,6 +43,61 @@ people:
     - title: google-plus
       url: #
 
+- name: Elizabeth Farrell Helbling
+  pic: 4
+  position: Local and Publications Chair
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Angelique Taylor
+  pic: 5
+  position: Website Chair
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Kuan Fang
+  pic: 6
+  position: Sponsorship Chair 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Preston Culbertson
+  pic: 7
+  position: Publicity Chair
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Elizabeth Eastabook
+  pic: 8
+  position: Director of Administrative
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
