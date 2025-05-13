@@ -20,79 +20,51 @@ people:
 - name: Cara M. Nunez
   pic: 2
   position: Program Chair
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  level: Assistant Professor
+  department: Mechanical and Aerospace 
+  university: Cornell University
 
 - name: Elizabeth Farrell Helbling
   pic: 3
   position: Local and Publications Chair
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  level: Assistant Professor
+  department: Electrical and Computer Engineering  
+  university: Cornell University
 
-- name: Elizabeth Farrell Helbling
+- name: Shiqi Zhang
   pic: 4
-  position: Local and Publications Chair
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Registration Chair 
+  level: Associate Professor 
+  department: Computer Science
+  university: Binghamton University
 
 - name: Angelique Taylor
   pic: 5
   position: Website Chair
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  level: Assistant Professor
+  department: Information Science
+  university: Cornell University
 
 - name: Kuan Fang
   pic: 6
   position: Sponsorship Chair 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  level: Assistant Professor
+  department: Computer Science
+  university: Cornell University
 
 - name: Preston Culbertson
   pic: 7
   position: Publicity Chair
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  level: Assistant Professor
+  department: Computer Science
+  university: Cornell University
 
 - name: Elizabeth Eastabook
   pic: 8
   position: Director of Administrative
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  level: #
+  department: Computer Science
+  university: Cornell University
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
