@@ -81,8 +81,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 616 Thurston Avenue
+  - line: Ithaca, NY 14850
 
 # Build settings
 markdown: kramdown
