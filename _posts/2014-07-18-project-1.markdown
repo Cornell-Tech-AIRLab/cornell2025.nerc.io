@@ -1,6 +1,7 @@
 ---
 title: Vickie Webster-Wood
 subtitle: Associate Professor, Department of Mechanical Engineering, Carnegie Mellon University
+department: Associate Professor, Department of Mechanical Engineering, Carnegie Mellon University
 layout: default
 modal-id: 1
 date: 2014-07-18
