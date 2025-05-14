@@ -4,7 +4,7 @@ subtitle: PROFESSOR RANK
 department: DEPARTMENT NAME
 university: UNIVERSITY NAME
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2014-07-17
 img: speaker3.png
 thumbnail: speaker3.png
