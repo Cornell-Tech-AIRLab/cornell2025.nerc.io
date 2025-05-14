@@ -1,11 +1,11 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Vickie Webster-Wood
+subtitle: Associate Professor, Department of Mechanical Engineering, Carnegie Mellon University
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: dreams.png
-thumbnail: dreams-thumbnail.png
+thumbnail: speaker1.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
