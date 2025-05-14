@@ -456,8 +456,7 @@ section h3.section-subheading {
 
 .timeline>li {
     position: relative;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     min-height: 50px;
 }
 
