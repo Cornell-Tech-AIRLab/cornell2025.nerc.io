@@ -1,0 +1,15 @@
+---
+title: SPEAKER NAME
+subtitle: Professor, Department NAME, UNIVERSITY 
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: speaker2.png
+thumbnail: speaker2.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: "ADD TALK TITLE"
+description: "ADD BIO"
+
+---
