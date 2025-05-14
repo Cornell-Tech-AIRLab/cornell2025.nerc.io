@@ -1,6 +1,8 @@
 ---
 title: SPEAKER NAME
-subtitle: Professor, Department NAME, UNIVERSITY 
+subtitle: PROFESSOR RANK
+department: DEPARTMENT NAME
+university: UNIVERSITY NAME
 layout: default
 modal-id: 2
 date: 2014-07-17

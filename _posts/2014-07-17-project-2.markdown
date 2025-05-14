@@ -1,6 +1,8 @@
 ---
 title: Anirudha Majumdar
-subtitle: Associate Professor, Mechanical and Aerospace Engineering (MAE) Department, Princeton 
+subtitle: Associate Professor
+department: Mechanical and Aerospace Engineering Department
+university: Princeton University
 layout: default
 modal-id: 2
 date: 2014-07-17
