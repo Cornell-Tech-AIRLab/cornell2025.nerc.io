@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://cornell-tech-airlab.github.io/cornell2025.nerc.io/</link>
     <atom:link href="https://cornell-tech-airlab.github.io/cornell2025.nerc.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 14 May 2025 01:02:30 +0000</pubDate>
-    <lastBuildDate>Wed, 14 May 2025 01:02:30 +0000</lastBuildDate>
+    <pubDate>Wed, 14 May 2025 01:05:16 +0000</pubDate>
+    <lastBuildDate>Wed, 14 May 2025 01:05:16 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -14,11 +14,11 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-        <link>https://cornell-tech-airlab.github.io/cornell2025.nerc.io/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://cornell-tech-airlab.github.io/cornell2025.nerc.io/web%20development/2014/07/18/project-1/</guid>
+        <link>https://cornell-tech-airlab.github.io/cornell2025.nerc.io/robots%20for%20biology%20and%20biology%20for%20robots%20-%20interdisciplinary%20research%20at%20the%20interface%20of%20biology%20and%20robotics/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://cornell-tech-airlab.github.io/cornell2025.nerc.io/robots%20for%20biology%20and%20biology%20for%20robots%20-%20interdisciplinary%20research%20at%20the%20interface%20of%20biology%20and%20robotics/2014/07/18/project-1/</guid>
         
         
-        <category>Web Development</category>
+        <category>Robots for Biology and Biology for Robots - Interdisciplinary research at the interface of biology and robotics</category>
         
       </item>
     
@@ -27,11 +27,11 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
-        <link>https://cornell-tech-airlab.github.io/cornell2025.nerc.io/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://cornell-tech-airlab.github.io/cornell2025.nerc.io/web%20development/2014/07/17/project-2/</guid>
+        <link>https://cornell-tech-airlab.github.io/cornell2025.nerc.io/robot%20safety%20in%20the%20era%20of%20foundation%20models/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">https://cornell-tech-airlab.github.io/cornell2025.nerc.io/robot%20safety%20in%20the%20era%20of%20foundation%20models/2014/07/17/project-2/</guid>
         
         
-        <category>Web Development</category>
+        <category>Robot safety in the era of foundation models</category>
         
       </item>
     
