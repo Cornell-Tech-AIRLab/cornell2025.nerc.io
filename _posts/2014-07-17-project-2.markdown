@@ -4,12 +4,12 @@ subtitle: Associate Professor, Mechanical and Aerospace Engineering (MAE) Depart
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
+img: speaker2.png
 thumbnail: speaker2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: "Robot safety in the era of foundation models"
+description: "Anirudha Majumdar holds a part-time research scientist position at Google DeepMind in Princeton. Majumdar received a Ph.D. in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology in 2016, and a B.S.E. in Mechanical Engineering and Mathematics from the University of Pennsylvania in 2011. Subsequently, he was a postdoctoral scholar at Stanford University from 2016 to 2017 at the Autonomous Systems Lab in the Aeronautics and Astronautics department. He is a recipient of the Sloan Fellowship, ONR Young Investigator Program (YIP) award, NSF CAREER award, Google Faculty Research Award (twice), Amazon Research Award (twice), Young Faculty Researcher Award from the Toyota Research Institute, Best Student Paper Award (as advisor) at the Conference on Robot Learning (CoRL), Paper of the Year Award from the International Journal of Robotics Research (IJRR), Best Conference Paper Award at the International Conference on Robotics and Automation (ICRA), Alfred Rheinstein Faculty Award (Princeton), and the Excellence in Teaching Award (Princeton SEAS)."
 
 ---
