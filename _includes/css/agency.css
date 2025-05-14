@@ -556,8 +556,8 @@ section h3.section-subheading {
     }
 
     .timeline>li {
-        margin-bottom: 10px;
-        min-height: 10px;
+        margin-bottom: 100px;
+        min-height: 100px;
     }
 
     .timeline>li .timeline-panel {
@@ -593,7 +593,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-panel {
-        padding: 0 20px 20px;
+        padding: 0 100px 100px;
     }
 
     .timeline>li .timeline-image {
