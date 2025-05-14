@@ -17,16 +17,6 @@
                         <h6>{{ member.level }}</h5>
                         <h6>{{ member.department }}</h5>
                         <h6>{{ member.university }}</h5>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
-
-                        </ul>
                     </div>
                 </div>
                 {% endfor %}
