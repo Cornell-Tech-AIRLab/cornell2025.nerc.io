@@ -339,7 +339,7 @@ section {
 
 section h2.section-heading {
     margin-top: 0;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     font-size: 40px;
 }
 
@@ -388,7 +388,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(187, 30, 16, 0.9); /* Fallback when no plugin support */
     background: rgba(200,39,30, .9);
 }
 
