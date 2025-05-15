@@ -45,6 +45,7 @@ people2:
   level: Assistant Professor
   department: Information Science
   university: Cornell University
+  website: https://airlab.cis.cornell.edu/
 
 - name: Kuan Fang
   pic: 6
@@ -63,7 +64,7 @@ people3:
 
 - name: Elizabeth Eastabook
   pic: 8
-  position: Director of Administrative
+  position: Director of Administration
   level: #
   department: Computer Science
   university: Cornell University
