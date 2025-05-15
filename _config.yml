@@ -32,6 +32,7 @@ people:
   level: Assistant Professor
   department: Electrical and Computer Engineering  
   university: Cornell University
+  website: https://www.engineering.cornell.edu/people/elizabeth-farrell-helbling/
 
 people2:
 - name: Shiqi Zhang
@@ -40,6 +41,7 @@ people2:
   level: Associate Professor 
   department: Computer Science
   university: Binghamton University
+  webiste: https://www.binghamton.edu/computer-science/people/profile.html?id=zhangs
 
 - name: Angelique Taylor
   pic: 5
@@ -55,6 +57,7 @@ people2:
   level: Assistant Professor
   department: Computer Science
   university: Cornell University
+  website: https://kuanfang.github.io/
 
 people3:
 - name: Preston Culbertson
@@ -63,6 +66,7 @@ people3:
   level: Assistant Professor
   department: Computer Science
   university: Cornell University
+  website: https://pculbertson.github.io/
 
 - name: Elizabeth Eastabook
   pic: 8
@@ -70,6 +74,7 @@ people3:
   level: #
   department: Computer Science
   university: Cornell University
+  website: https://www.cs.cornell.edu/people/staff
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
