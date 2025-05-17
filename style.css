@@ -276,9 +276,9 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #740404;
     background-attachment: scroll;
-    background-image: url('/cornell2025.nerc.io/img/header-bg-cornell.png');
+    background-image: url('/cornell2025.nerc.io/img/header-bg-cornell_v3.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
