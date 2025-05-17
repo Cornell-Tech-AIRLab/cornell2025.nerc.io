@@ -278,7 +278,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/cornell2025.nerc.io/img/header-bg-cornell.png');
+    background-image: url('/cornell2025.nerc.io/img/header-bg-cornell_v3.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -339,7 +339,7 @@ section {
 
 section h2.section-heading {
     margin-top: 0;
-    margin-bottom: 60px;
+    margin-bottom: 15px;
     font-size: 40px;
 }
 
@@ -347,8 +347,8 @@ section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
     font-family: "Times New Roman", "Helvetica Neue", Helvetica,Arial,sans-serif;
-    font-size: 18px;
-    font-style: normal;
+    font-size: 16px;
+    font-style: italic;
     font-weight: 400;
 }
 
@@ -359,11 +359,6 @@ section h3.section-subheading {
 }
 
 .service-heading {
-    margin: 15px 0;
-    text-transform: none;
-}
-
-.registration-heading {
     margin: 15px 0;
     text-transform: none;
 }
@@ -388,7 +383,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(187, 30, 16, 0.9); /* Fallback when no plugin support */
+    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
     background: rgba(200,39,30, .9);
 }
 
@@ -512,7 +507,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fff;
+    background-color: #c8271e;
 }
 
 .timeline>li .timeline-image h4 {
@@ -785,11 +780,6 @@ ul.social-buttons li a:active {
 .btn.active,
 .btn:active:focus {
     outline: 0;
-}
-
-.center {
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .portfolio-modal .modal-content {
