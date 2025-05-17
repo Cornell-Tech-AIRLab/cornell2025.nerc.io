@@ -1,46 +1,80 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+domain: cornell-tech-airlab.github.io
+url: https://cornell-tech-airlab.github.io
+baseurl: "/cornell2025.nerc.io"
 
 # Site settings
-title: Awesome Title
+title: NERC 2025
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Tapomayukh Bhattacharjee 
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: General Chair
+  level: Assistant Professor
+  department: Computer Science
+  university: Cornell University
+  website: https://sites.google.com/site/tapomayukh
 
-- name: Larry Parker
+- name: Cara M. Nunez
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: Program Chair
+  level: Assistant Professor
+  department: Mechanical and Aerospace 
+  university: Cornell University
+  website: https://www.engineering.cornell.edu/people/cara-m-nunez/
 
-- name: Diana Petersen
+- name: Elizabeth Farrell Helbling
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Publications Chair
+  level: Assistant Professor
+  department: Electrical and Computer Engineering  
+  university: Cornell University
+  website: https://www.engineering.cornell.edu/people/elizabeth-farrell-helbling/
+
+people2:
+- name: Shiqi Zhang
+  pic: 4
+  position: Registration Chair 
+  level: Associate Professor 
+  department: Computer Science
+  university: Binghamton University
+  website: https://www.binghamton.edu/computer-science/people/profile.html?id=zhangs
+
+- name: Angelique Taylor
+  pic: 5
+  position: Website Chair
+  level: Assistant Professor
+  department: Information Science
+  university: Cornell University
+  website: https://airlab.cis.cornell.edu/
+
+- name: Kuan Fang
+  pic: 6
+  position: Sponsorship Chair 
+  level: Assistant Professor
+  department: Computer Science
+  university: Cornell University
+  website: https://kuanfang.github.io/
+
+people3:
+- name: Preston Culbertson
+  pic: 7
+  position: Publicity Chair
+  level: Assistant Professor
+  department: Computer Science
+  university: Cornell University
+  website: https://pculbertson.github.io/
+
+- name: Elizabeth Eastabook
+  pic: 8
+  position: Director of Administration
+  level: #
+  department: Computer Science
+  university: Cornell University
+  website: https://www.cs.cornell.edu/people/staff
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -57,9 +91,13 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 127 Hoy Road
+  - line: Ithaca, NY 14853
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
