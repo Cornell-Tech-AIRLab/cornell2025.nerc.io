@@ -197,7 +197,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #282727;
+    background-color: #fff;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg-cornell_v3.png');
+    background-image: url('{{ site.baseurl }}/img/header-bg-cornell.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
