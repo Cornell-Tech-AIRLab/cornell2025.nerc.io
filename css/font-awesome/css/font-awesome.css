@@ -1216,6 +1216,9 @@
   content: "\f16c";
 }
 .fa-instagram:before {
+  content: "\e671";
+}
+.fa-bluesky:before {
   content: "\f16d";
 }
 .fa-flickr:before {
