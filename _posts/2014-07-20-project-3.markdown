@@ -1,0 +1,17 @@
+---
+title: Laura Herlant
+subtitle: Research Lead at the Robotics and AI Institute
+department: Robotics and AI Institute Institute 
+university: Robotics and AI Institute Institute 
+layout: default
+modal-id: 3
+date: 2014-07-17
+img: speaker3.png
+thumbnail: speaker3.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: "World Understanding for Robotics"
+description: "Dr. Laura Herlant is a Research Director at the Robotics and AI Institute, whose mission is to solve the most important and fundamental challenges in AI and robotics to enable future generations of intelligent machines and help us all live better lives. Her focus has been on foundation models, perception, and world understanding for robotics. Previously she worked at iRobot, leading a team of researchers and engineers to bring deep reinforcement learning algorithms and more intelligent behaviors to millions of Roomba robots. Laura completed her PhD in Robotics at Carnegie Mellon University in the Personal Robotics Lab as a Google Hertz Foundation and NSF Fellow."
+
+---

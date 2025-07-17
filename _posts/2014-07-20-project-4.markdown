@@ -1,0 +1,17 @@
+---
+title: Wendy Ju
+subtitle: Associate Professor
+department: Information Science
+university: Cornell Tech
+layout: default
+modal-id: 4
+date: 2014-07-18
+img: speaker4.png
+thumbnail: speaker4.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: "Urban-scale HRI"
+description: "Wendy Ju is an Associate Professor of Information Science at Cornell Tech. She is also an inaugural faculty member of Cornell's new campus-wide multidisciplinary Design Tech department, and an Associate Professor at the Jacobs Technion-Cornell Institute at Cornell Tech and the Technion. Wendy has innovated numerous methods for prototyping automated systems to understand how people will respond to systems before the systems are built. Her design approach has been influential in the areas of human-robot interaction and automated vehicle interfaces, where early stage prototyping enables safer and more socially appropriate systems. Wendy's current research focuses on everyday urban interaction. She has a PhD in Mechanical Engineering from Stanford, and a Master's in Media Arts and Sciences from MIT. Wendy's monograph, The Design of Implicit Interactions, was published in 2015.
+"
+---
