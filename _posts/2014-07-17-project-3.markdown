@@ -1,8 +1,8 @@
 ---
-title: Anirudha Majumdar
+title: Laura Herlant
 subtitle: Associate Professor
-department: Mechanical and Aerospace Engineering
-university: Princeton University
+department: Research Director
+university: Robotics and AI Institute
 layout: default
 modal-id: 3
 date: 2014-07-17
@@ -11,7 +11,7 @@ thumbnail: speaker3.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: "Robot safety in the era of foundation models"
-description: "Anirudha Majumdar holds a part-time research scientist position at Google DeepMind in Princeton. Majumdar received a Ph.D. in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology in 2016, and a B.S.E. in Mechanical Engineering and Mathematics from the University of Pennsylvania in 2011. Subsequently, he was a postdoctoral scholar at Stanford University from 2016 to 2017 at the Autonomous Systems Lab in the Aeronautics and Astronautics department. He is a recipient of the Sloan Fellowship, ONR Young Investigator Program (YIP) award, NSF CAREER award, Google Faculty Research Award (twice), Amazon Research Award (twice), Young Faculty Researcher Award from the Toyota Research Institute, Best Student Paper Award (as advisor) at the Conference on Robot Learning (CoRL), Paper of the Year Award from the International Journal of Robotics Research (IJRR), Best Conference Paper Award at the International Conference on Robotics and Automation (ICRA), Alfred Rheinstein Faculty Award (Princeton), and the Excellence in Teaching Award (Princeton SEAS)."
+category: "World Understanding for Robotics"
+description: "Dr. Laura Herlant is a Research Director at the Robotics and AI Institute, whose mission is to solve the most important and fundamental challenges in AI and robotics to enable future generations of intelligent machines and help us all live better lives. Her focus has been on foundation models, perception, and world understanding for robotics. Previously she worked at iRobot, leading a team of researchers and engineers to bring deep reinforcement learning algorithms and more intelligent behaviors to millions of Roomba robots. Laura completed her PhD in Robotics at Carnegie Mellon University in the Personal Robotics Lab as a Google Hertz Foundation and NSF Fellow."
 
 ---
