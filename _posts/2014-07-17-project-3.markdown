@@ -6,7 +6,7 @@ university: Princeton University
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: speaker2.png
+img: speaker3.png
 thumbnail: speaker2.png
 alt: image-alt
 project-date: April 2014
