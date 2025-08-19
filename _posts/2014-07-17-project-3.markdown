@@ -1,6 +1,6 @@
 ---
 title: Laura Herlant
-subtitle: Associate Professor
+subtitle: 
 department: Research Director
 university: Robotics and AI Institute
 layout: default
