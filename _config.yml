@@ -76,6 +76,14 @@ people3:
   university: Cornell University
   website: https://www.cs.cornell.edu/people/staff
 
+- name: Anthony Loinaz
+  pic: 9
+  position: Events Coordinator
+  level: #
+  department: Computer Science
+  university: Cornell University
+  website: https://www.cs.cornell.edu/people/anthony-loinaz
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
