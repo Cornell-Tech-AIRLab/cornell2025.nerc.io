@@ -763,6 +763,7 @@ ul.social-buttons li a {
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
+    justify-content: center;
 }
 
 ul.social-buttons li a:hover,
